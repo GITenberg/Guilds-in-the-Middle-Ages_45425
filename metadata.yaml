@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '43277'
     url: http://www.gutenberg.org/2009/agents/43277
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45425#Guilds-in-the-Middle-Ages
 gutenberg_issued: '2014-04-17'
 gutenberg_type: Text
 identifiers:
